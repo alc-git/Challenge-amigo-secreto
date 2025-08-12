@@ -1,1 +1,1 @@
-<title>Primer Proyecto del Challenge Amigo Secreto</title>
+<h1>Primer Proyecto del Challenge Amigo Secreto</h1>

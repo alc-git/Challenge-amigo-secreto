@@ -1,7 +1,8 @@
 <h1>Primer Proyecto del Challenge Amigo Secreto</h1>
 Este es un proyecto donde puedes agregar amigos uno por uno y al final hara un sorteo y mostrara uno de los nombres
 
-![Static Badge](https://img.shields.io/badge/Challenge%20amigo%20secreto%20-%20https%3A%2F%2Fimg.shields.io%2Fbadge%2Fjust%2520the%2520message-8A2BE2)
-[Amigo Secreto](https://codecov.io/gh/TabbyML/tabby/graph/badge.svg?token=WYVVH8MKK3)](https://codecov.io/gh/TabbyML/tabby)
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F%20Challenge-Amigo_Secreto-blue)
+
+
 
 
